@@ -99,9 +99,9 @@ Convolutional Autoencoder is a variant of Convolutional Neural Networks that are
 
 The most traditional estimator is mean-square error (MSE). MSE measures the average squared difference between the estimated values (predicted values) and the actual value (ground truth). 
 
-PSNR (Peak Signal to Noise Ratio) is the second traditional estimator. To use this estimator we must transform all values of pixel representation to bit form. If we have 8-bit pixels, then the values of the pixel channels must be from 0 to 255. By the way, the red, green, blue or RGB color model fits best for the PSNR. PSNR shows a ratio between the maximum possible power of a signal and the power of corrupting noise that affects the fidelity of its representation. PSNR is often used to control the quality of digital signal transmission.
+**PSNR (Peak Signal to Noise Ratio)** is the second traditional estimator. To use this estimator we must transform all values of pixel representation to bit form. If we have 8-bit pixels, then the values of the pixel channels must be from 0 to 255. By the way, the red, green, blue or RGB color model fits best for the PSNR. PSNR shows a ratio between the maximum possible power of a signal and the power of corrupting noise that affects the fidelity of its representation. PSNR is often used to control the quality of digital signal transmission.
 
-The Structural Similarity Index method (SSIM). SSIM is correlated with the quality and perception of the human visual system (HVS color model). Instead of using traditional error summation methods, the SSIM models image distortion as a combination of three factors that are loss of correlation, luminance distortion, and contrast distortion.
+**Structural Similarity Index method (SSIM)**. SSIM is correlated with the quality and perception of the human visual system (HVS color model). Instead of using traditional error summation methods, the SSIM models image distortion as a combination of three factors that are loss of correlation, luminance distortion, and contrast distortion.
 
 ## Face Generation using GAN architecture
 
