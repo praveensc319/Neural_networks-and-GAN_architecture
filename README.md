@@ -5,6 +5,7 @@ The repository includes the following topics:
 * MNIST 10 class classifier
 * CIFAR10 10 class classfier
 * Convolutional Autoencoder on MNIST data
+* Convolutional Autoencoder on Cifar10 data
 * Face Generation using GAN architecture
 
 ## MNIST 10 class classifier
@@ -94,6 +95,14 @@ Convolutional Autoencoder is a variant of Convolutional Neural Networks that are
 [Image Source](https://www.researchgate.net/profile/Xifeng-Guo/publication/320658590/figure/fig1/AS:614154637418504@1523437284408/The-structure-of-proposed-Convolutional-AutoEncoders-CAE-for-MNIST-In-the-middle-there.png)
 
 </p>
+
+## Convolutional Autoencoder on Cifar10 data
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/46927252/117689327-3d550880-b1d7-11eb-8e7d-a6efcf5b34f3.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="350" />
+</p>
+
+[Image Source](http://users.cecs.anu.edu.au/~Tom.Gedeon/conf/ABCs2018/paper/ABCs2018_paper_65.pdf)
 
 ### Quality Metrics
 
