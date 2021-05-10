@@ -125,3 +125,9 @@ For the generator training set, the  x  contains the random seeds to generate im
 
 Both the generator and discriminator use Adam and the same learning rate and momentum.
 
+### Training Time
+
+Training Time on MX750 GPU for 400 Epochs is about 6 hrs.
+
+Better result can be obtained by incresing the number of Epochs.
+
