@@ -113,7 +113,7 @@ The GAN is made up of two different neural networks: the discriminator and the g
 
 The discriminator accepts an image as its input and produces number that is the probability of the input image being real. The generator accepts a random seed vector and generates an image from that random vector seed. An unlimited number of new images can be created by providing additional seeds.
 
-The dataset can be downloaded by the given link: [Faces_Data](https://www.kaggle.com/gasgallo/faces-data-new)
+The dataset can be downloaded by the given link : [Faces_Data](https://www.kaggle.com/gasgallo/faces-data-new)
 
 ### Training the Discriminator
 
