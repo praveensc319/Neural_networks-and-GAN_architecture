@@ -137,5 +137,5 @@ Both the generator and discriminator use Adam and the same learning rate and mom
 
 Training Time on MX750 GPU for 400 Epochs is about 6 hrs.
 
-Better result can be obtained by incresing the number of Epochs.
+Better result can be obtained by increasing the number of Epochs.
 
