@@ -12,7 +12,9 @@ The repository includes the following topics:
 
 ### About Dataset
 
-It is a dataset of 60,000 small square 28×28 pixel grayscale images of handwritten single digits between 0 and 9. The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively
+It is a dataset of 60,000 small square 28×28 pixel grayscale images of handwritten single digits between 0 and 9. The task is to classify a given image of a handwritten digit into one of 10 classes representing integer values from 0 to 9, inclusively.
+
+The MNIST dataset can be downloaded from [here.](https://deepai.org/dataset/mnist)
 
 ### Building a Convolutional Neural Network
 
@@ -45,7 +47,9 @@ Confusion Matrix as the name suggests gives us a matrix as output and describes 
 
 ### About Dataset
 
-The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images
+The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
+
+The CIFAR-10 dataset can be downloaded [here](https://www.kaggle.com/c/cifar-10)
 
 ### Building a Neural Network
 
